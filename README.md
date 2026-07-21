@@ -1,6 +1,6 @@
 # Java Fundamentals Practice
 
-A collection of beginner Java programs developed while learning Java programming as part of my MSc in Information Technology.
+A collection of Java programs documenting my journey from Java fundamentals to object-oriented programming. This repository is continuously updated as I build practical programming skills for software engineering, artificial intelligence, and machine learning.
 
 The goal of this repository is to build a strong foundation in Java programming through consistent practice, clean code, and well-documented examples. More programs and projects will be added as I continue learning.
 
