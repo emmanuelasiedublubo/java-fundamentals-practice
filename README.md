@@ -1,55 +1,43 @@
 # Java Fundamentals Practice
 
-A collection of Java programs documenting my journey from Java fundamentals to object-oriented programming. This repository is continuously updated as I build practical programming skills for software engineering, artificial intelligence, and machine learning.
+A collection of beginner Java programs documenting my journey from Java fundamentals to object-oriented programming.
 
-The goal of this repository is to build a strong foundation in Java programming through consistent practice, clean code, and well-documented examples. More programs and projects will be added as I continue learning.
+This repository is continuously updated as I build practical programming skills for software engineering, artificial intelligence, and machine learning.
 
----
-
-## Topics Covered
-
-- Variables and Constants
-- Arithmetic Operations
-- Console Output
-- Integer Data Types
-- Double Data Types
-- Mathematical Calculations
-
----
-
-## Programs
+## Repository Structure
 
 ### Variables and Constants
+- Area Calculator
+- Perimeter Calculator
+- Average Calculator
+- Temperature Converter
+- Simple Interest Calculator
+- Volume Calculator
 
-| Program | Description |
-|----------|-------------|
-| VolumeCalculator | Calculates the volume of a rectangular box. |
-| AreaCalculator | Calculates the area of a rectangle. |
-| PerimeterCalculator | Calculates the perimeter of a rectangle. |
-| TemperatureConverter | Converts Celsius to Fahrenheit. |
-| SimpleInterestCalculator | Calculates simple interest using the standard formula. |
-| AverageCalculator | Calculates the average of three numbers. |
+### Conditionals
+- Pass/Fail Checker
 
----
+More Java programs covering loops, arrays, methods, switch statements, and object-oriented programming will be added as I continue learning.
 
-## Technologies Used
+## Technologies
 
-- Java 21
+- Java
 - Visual Studio Code
 - Git
 - GitHub
 
----
-
 ## Learning Goals
 
-This repository is part of my journey toward becoming a software engineer and AI researcher. It documents my progress from Java fundamentals to object-oriented programming, data structures, algorithms, and real-world software projects.
+This repository is designed to:
 
----
+- Strengthen Java programming fundamentals.
+- Develop clean coding practices.
+- Build a strong GitHub portfolio.
+- Prepare for software engineering, artificial intelligence, and machine learning projects.
 
 ## Author
 
 **Emmanuel Kojo Asiedu-Blubo**
 
-- MSc Information Technology
-- Aspiring AI & Machine Learning Researcher
+GitHub:
+https://github.com/emmanuelasiedublubo
