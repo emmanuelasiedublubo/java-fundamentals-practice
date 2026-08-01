@@ -19,7 +19,7 @@ This repository is continuously updated as I build practical programming skills 
 
 More Java programs covering loops, arrays, methods, switch statements, and object-oriented programming will be added as I continue learning.
 
-## Technologies
+## Tools & Technologies
 
 - Java
 - Visual Studio Code
