@@ -63,6 +63,17 @@ Topics covered:
 - Method overloading
 - Reusable code
 
+### ✅ Switch Statements
+**Programs:** 10
+
+Topics covered:
+- switch statements
+- case labels
+- break statements
+- default cases
+- Integer, character, and String switching
+- Multi-option decision making
+
 ---
 
 ## 📂 Repository Structure
@@ -75,7 +86,7 @@ java-fundamentals-practice
 ├── loops 
 ├── arrays 
 ├── methods 
-├── switch-statements (coming soon)
+├── switch-statements 
 └── object-oriented-programming (coming soon)
 ```
 
