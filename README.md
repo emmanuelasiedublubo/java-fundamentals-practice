@@ -52,6 +52,17 @@ Topics covered:
 - Array calculations
 - Copying and reversing arrays
 
+### ✅ Methods
+**Programs:** 10
+
+Topics covered:
+- Method creation and invocation
+- Parameters and arguments
+- Return values
+- `void` methods
+- Method overloading
+- Reusable code
+
 ---
 
 ## 📂 Repository Structure
@@ -63,7 +74,7 @@ java-fundamentals-practice
 ├── conditionals
 ├── loops 
 ├── arrays 
-├── methods (coming soon)
+├── methods 
 ├── switch-statements (coming soon)
 └── object-oriented-programming (coming soon)
 ```
