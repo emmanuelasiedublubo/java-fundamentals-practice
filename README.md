@@ -41,6 +41,17 @@ Topics covered:
 - Number sequences
 - Accumulation
 
+### ✅ Arrays
+**Programs:** 10
+
+Topics covered:
+- Array declaration and initialization
+- Array traversal
+- Searching
+- Minimum and maximum values
+- Array calculations
+- Copying and reversing arrays
+
 ---
 
 ## 📂 Repository Structure
@@ -51,7 +62,7 @@ java-fundamentals-practice
 ├── variables-and-constants
 ├── conditionals
 ├── loops 
-├── arrays (coming soon)
+├── arrays 
 ├── methods (coming soon)
 ├── switch-statements (coming soon)
 └── object-oriented-programming (coming soon)
