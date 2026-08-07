@@ -1,4 +1,0 @@
-Hello! This text was written using Java.
-This line was appended to the file.
-This line was appended to the file.
-This line was appended to the file.
