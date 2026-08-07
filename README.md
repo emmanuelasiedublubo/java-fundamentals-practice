@@ -98,6 +98,17 @@ Topics covered:
 - Built-in exceptions
 - Custom exceptions
 - Exception handling with OOP
+
+### ✅ Collections
+**Programs:** 10
+
+Topics covered:
+- ArrayList and LinkedList
+- HashSet and TreeSet
+- HashMap
+- Collection iteration
+- Searching and sorting
+- Adding and removing elements
 ---
 
 ## 📂 Repository Structure
@@ -106,6 +117,7 @@ Topics covered:
 java-fundamentals-practice
 ├── arrays
 ├── conditionals
+├── collections
 ├── exceptionhandling
 ├── loops
 ├── methods
