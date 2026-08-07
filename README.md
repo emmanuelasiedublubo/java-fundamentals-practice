@@ -1,43 +1,74 @@
 # Java Fundamentals Practice
 
-A collection of beginner Java programs documenting my journey from Java fundamentals to object-oriented programming.
+A structured collection of Java programs documenting my journey through Java fundamentals. This repository is organized into modules, with each module focusing on a core programming concept.
 
-This repository is continuously updated as I build practical programming skills for software engineering, artificial intelligence, and machine learning.
+The goal of this repository is to strengthen my programming skills, practice clean coding, and build a professional GitHub portfolio.
 
-## Repository Structure
+---
 
-### Variables and Constants
-- Area Calculator
-- Perimeter Calculator
-- Average Calculator
-- Temperature Converter
-- Simple Interest Calculator
-- Volume Calculator
+## 📚 Modules Completed
 
-### Conditionals
-- Pass/Fail Checker
+### ✅ Variables and Constants
+**Programs:** 6
 
-More Java programs covering loops, arrays, methods, switch statements, and object-oriented programming will be added as I continue learning.
+Topics covered:
+- Variables
+- Constants
+- Arithmetic operators
+- Mathematical calculations
+- Console output
 
-## Tools & Technologies
+### ✅ Conditionals
+**Programs:** 15
+
+Topics covered:
+- if statements
+- if...else
+- else if
+- Comparison operators
+- Logical operators
+- Nested conditions
+- Decision making
+
+---
+
+## 📂 Repository Structure
+
+```text
+java-fundamentals-practice
+│
+├── variables-and-constants
+├── conditionals
+├── loops (coming soon)
+├── arrays (coming soon)
+├── methods (coming soon)
+├── switch-statements (coming soon)
+└── object-oriented-programming (coming soon)
+```
+
+---
+
+## 🛠 Tools and Technologies
 
 - Java
 - Visual Studio Code
 - Git
 - GitHub
 
-## Learning Goals
+---
 
-This repository is designed to:
+## 🎯 Learning Goals
 
-- Strengthen Java programming fundamentals.
-- Develop clean coding practices.
-- Build a strong GitHub portfolio.
-- Prepare for software engineering, artificial intelligence, and machine learning projects.
+- Strengthen Java programming fundamentals
+- Develop problem-solving skills
+- Write clean, readable code
+- Practice professional Git and GitHub workflows
+- Build a strong programming portfolio
 
-## Author
+---
+
+## 👨‍💻 Author
 
 **Emmanuel Kojo Asiedu-Blubo**
 
-GitHub:
-https://github.com/emmanuelasiedublubo
+GitHub: https://github.com/emmanuelasiedublubo
