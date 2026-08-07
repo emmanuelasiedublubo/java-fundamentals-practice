@@ -1,0 +1,28 @@
+package loops;
+
+/*
+ * Program: ReverseNumber
+ * Module: Loops
+ * Purpose: Reverses the digits of an integer using a while loop.
+ */
+
+public class ReverseNumber {
+
+    public static void main(String[] args) {
+
+        int number = 12345;
+        int reversed = 0;
+
+        while (number != 0) {
+
+            int digit = number % 10;
+            reversed = reversed * 10 + digit;
+            number /= 10;
+
+        }
+
+        System.out.println("Reversed Number = " + reversed);
+
+    }
+
+}
