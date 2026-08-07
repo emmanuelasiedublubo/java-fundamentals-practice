@@ -74,6 +74,18 @@ Topics covered:
 - Integer, character, and String switching
 - Multi-option decision making
 
+### ✅ Object-Oriented Programming
+**Programs:** 10
+
+Topics covered:
+- Classes and objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Method overriding
+- Polymorphism
+- Abstraction
+- Interfaces
 ---
 
 ## 📂 Repository Structure
@@ -87,7 +99,7 @@ java-fundamentals-practice
 ├── arrays 
 ├── methods 
 ├── switch-statements 
-└── object-oriented-programming (coming soon)
+└── object-oriented-programming 
 ```
 
 ---
