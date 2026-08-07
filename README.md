@@ -30,6 +30,17 @@ Topics covered:
 - Nested conditions
 - Decision making
 
+### ✅ Loops
+**Programs:** 10
+
+Topics covered:
+- for loops
+- while loops
+- Loop counters
+- Repetition
+- Number sequences
+- Accumulation
+
 ---
 
 ## 📂 Repository Structure
@@ -39,7 +50,7 @@ java-fundamentals-practice
 │
 ├── variables-and-constants
 ├── conditionals
-├── loops (coming soon)
+├── loops 
 ├── arrays (coming soon)
 ├── methods (coming soon)
 ├── switch-statements (coming soon)
