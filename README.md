@@ -86,20 +86,32 @@ Topics covered:
 - Polymorphism
 - Abstraction
 - Interfaces
+
+### ✅ Exception Handling
+**Programs:** 10
+
+Topics covered:
+- try and catch
+- Multiple catch blocks
+- finally
+- throw and throws
+- Built-in exceptions
+- Custom exceptions
+- Exception handling with OOP
 ---
 
 ## 📂 Repository Structure
 
 ```text
 java-fundamentals-practice
-│
-├── variables-and-constants
+├── arrays
 ├── conditionals
-├── loops 
-├── arrays 
-├── methods 
-├── switch-statements 
-└── object-oriented-programming 
+├── exceptionhandling
+├── loops
+├── methods
+├── objectorientedprogramming
+├── switchstatements
+└── variables-and-constants
 ```
 
 ---
