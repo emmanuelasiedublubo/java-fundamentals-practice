@@ -1,4 +1,0 @@
-Name: Emmanuel
-Program: MSc Information Technology
-Course: Java Programming
-Score: 85
