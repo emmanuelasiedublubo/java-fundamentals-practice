@@ -109,6 +109,18 @@ Topics covered:
 - Collection iteration
 - Searching and sorting
 - Adding and removing elements
+
+### ✅ File Handling
+**Programs:** 10
+
+Topics covered:
+- File creation and deletion
+- Reading and writing files
+- Appending data
+- File information
+- Multiple-line file operations
+- Copying files
+- File-related exception handling
 ---
 
 ## 📂 Repository Structure
@@ -119,6 +131,7 @@ java-fundamentals-practice
 ├── conditionals
 ├── collections
 ├── exceptionhandling
+├── filehandling
 ├── loops
 ├── methods
 ├── objectorientedprogramming
